@@ -1,7 +1,7 @@
 #
 # Author: Alex R. Carney
-# Summary: Fetch, analyze, and store tweets between 2 input dates without many of the limits of the 
-# Twitter API. Can typically retrieve 12,000 tweets before reaching a HTTP 429 server cool-down. 
+# Summary: Fetch, analyze, and store tweets between 2 input dates without many of the limitations
+#of the Twitter API. Can typically retrieve 12,000 tweets before reaching a HTTP 429 server cool-down. 
 # Sentiment analysis also captured for data analytics. Fetched tweets stored in a .csv file.
 #
 # ****Links to neccessary libraries****
