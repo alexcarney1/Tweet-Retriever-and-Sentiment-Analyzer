@@ -55,5 +55,5 @@ def main():
                 sentimentScore = analyze_sentiment(cleanTweet)
                 csvWriter.writerow([tweet.date,sentimentScore,cleanTweet.encode('utf-8')])   
         
-        print ("Scraped tweets saved to: " + query + '.csv  !!!!')
+        print ("Scraped tweets saved to: " + query + '.csv')
 main()
